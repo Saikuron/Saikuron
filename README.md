@@ -1,4 +1,4 @@
-# :zap: Welcome to my profile! :zap:
+# :zap: Welcome to my profile :zap:
 
 ### Who am I?
 
@@ -6,7 +6,7 @@ I am Jean de Malliard, a French computer science enthusiast :computer: \
 I had an engineering degree in Information Systems and Cybersecurity in France, and just finished a Master of Science in Computer Information Systems at Boston University :mortar_board: \
 Now, I am looking for a software engineer position in the US (preference for New-York City) \
 I especially like operating systems and everything related to low-level programming. I like dealing with the functioning of things :wrench:\
-Consequently, I love working with **C/C++**, and I am very interested in learning **Rust** \
+Consequently, I love working with **C/C++**, and I am very interested in learning **Rust**
 
 ### What else?
 
