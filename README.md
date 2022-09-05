@@ -1,5 +1,7 @@
 # :zap: Welcome to my profile :zap:
 
+*Note: I haven't been very active on Github lately because I was focusing on my studies*
+
 ### Who am I?
 
 I am Jean de Malliard, a French computer science enthusiast :computer: \
