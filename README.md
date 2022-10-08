@@ -16,7 +16,7 @@ Consequently, I love working with **C/C++**, and I am very interested in learnin
  \
 :dancer: I like dancing, I learned a little bit of hip-hop, popping, salsa, rock and a few other dances \
  \
-:books: I love reading books. I am interested in personal development, philosophy, novels. Currently, I am finishing 12 Rules for Life by Jordan B. Peterson \
+:books: I love reading books. I am interested in personal development, philosophy, novels. Currently, I am finishing The Power of Now by Eckhart Tolle \
  \
 :runner: I love sport, I tried a lot of different ones. I am currently doing weightlifting and tennis
 
